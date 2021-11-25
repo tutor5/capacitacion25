@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Capacitacion25">
         <activity
+            android:name=".ListarProductos"
+            android:exported="true" />
+        <activity
             android:name=".DatabaseActivity"
             android:exported="true" />
         <activity
