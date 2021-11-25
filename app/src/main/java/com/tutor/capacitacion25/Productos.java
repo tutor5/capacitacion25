@@ -5,6 +5,13 @@ public class Productos {
     private String nombre,descripcion,precio;
 
 
+
+    public Productos(){
+
+
+
+    }
+
     public Productos(String nombre, String descripcion, String precio) {
         this.nombre = nombre;
         this.descripcion = descripcion;

@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/jorge/AndroidStudioProjects/capacitacion25/app/src/main/res/layout/activity_database.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jorge/AndroidStudioProjects/capacitacion25/app/src/main/res/layout/activity_listar_productos.xml" value="0.1" />
         <entry key="..\:/Users/jorge/AndroidStudioProjects/capacitacion25/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/jorge/AndroidStudioProjects/capacitacion25/app/src/main/res/layout/productos.xml" value="0.33" />
       </map>
     </option>
   </component>
