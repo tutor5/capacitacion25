@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "895170811531",
+    "firebase_url": "https://capacitacion-1cb14-default-rtdb.firebaseio.com",
+    "project_id": "capacitacion-1cb14",
+    "storage_bucket": "capacitacion-1cb14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895170811531:android:1c1803acaeb5d4f6ede68e",
+        "android_client_info": {
+          "package_name": "com.tutor.capacitacion25"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895170811531-f0suiakmssamdi67fs42ohv2s9su7u3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA51d7R0osu2Ivf37CULuMefZQbAP9n74w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895170811531-f0suiakmssamdi67fs42ohv2s9su7u3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
